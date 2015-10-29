@@ -11,4 +11,7 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
-.Rproj.user
+
+# produced figures
+figures/*.pdf
+figures/*.png
