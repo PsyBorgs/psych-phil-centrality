@@ -15,3 +15,4 @@ vignettes/*.pdf
 # produced figures
 figures/*.pdf
 figures/*.png
+.Rproj.user
