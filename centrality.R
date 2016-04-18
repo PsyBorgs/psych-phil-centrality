@@ -6,7 +6,7 @@
 ### http://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/
 
 ### Data compiled by Crystal Heidari & Daniel Chiacchia
-### from Psycholgical Review & Philosophical Review
+### from Psychological Review & Philosophical Review
 
 library(igraph)
 
